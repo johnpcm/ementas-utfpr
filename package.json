@@ -1,0 +1,16 @@
+{
+  "name": "ementas-utfpr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html-pdf": "^2.2.0",
+    "mustache": "^2.3.0"
+  }
+}
