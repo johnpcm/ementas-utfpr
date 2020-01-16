@@ -18,6 +18,7 @@ As ementas geradas ficam salvas em [ementas](./ementas/), deixei alguns exemplos
 
 ## Roadmap
 
+- Fazer o encoding em Base64 pelo script ao invés de colocar inteiro no código
 - Suporte a outras línguas
 - Execução na web
 - Integração com sistema da UTFPR(?)
